@@ -5,7 +5,7 @@
 ## Introduction
 Structured Query Language (SQL) was employed in this task to generate database, import datasets and also generate insights from these datasets using various functions in SQL. Four sets of datasets presented in tables, were used in this analysis. They were imported into a database named 'PRACTICE' . They are; 
 - Employee_review dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/employee_review.csv)
-- Employee dataset ()
+- Employee dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Employee.csv)
 - Department dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Department.csv)
 - Salary dataset ()
 
