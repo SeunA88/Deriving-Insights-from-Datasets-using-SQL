@@ -29,7 +29,7 @@ To generate this insight the following analysis were carried out:
    
 #### Below are the queries used for this analysis
 ![](Task2.png)
-![](Task2results.png)
+![](TASK2RESULT.png)
 
 ---
 
