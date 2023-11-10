@@ -7,7 +7,7 @@ Structured Query Language (SQL) was employed in this task to generate database, 
 - Employee_review dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/employee_review.csv)
 - Employee dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Employee.csv)
 - Department dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Department.csv)
-- Salary dataset ()
+- Salary dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Salary.csv)
 
 From these data sets, the following tasks were analysed:
 Using the Employee_review dataset; 
