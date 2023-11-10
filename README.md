@@ -46,7 +46,8 @@ To generate this insight the following analysis were carried out:
 **Using the other three tables above, show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.**  
 To generate this insight the following analysis were carried out:
 1. Firstly, an edit of a column name was carried out.
-2. All three datasets; Employee dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Employee.csv)
+2. All three datasets;
+- Employee dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Employee.csv)
 - Department dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Department.csv)
 - Salary dataset (https://github.com/SeunA88/Deriving-Insights-from-Datasets-using-SQL/blob/main/Salary.csv)
 were used for this analysis, an 'INNER JOIN' function was used to connect the datasets.
