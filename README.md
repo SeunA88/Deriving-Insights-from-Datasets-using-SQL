@@ -15,10 +15,11 @@ Using the Employee_review dataset;
 NB: Endeavour to check whether there are null values in work_life_balance column and the salary_and_benefit rating and do the needful (fill with average)
 
 2. Using case statement, create a new column that specifies everything greater than 4 for the whole qualities as 'excellent', having atleast two qualities greater than 3 as 'Good' and everyother thing as 'poor'
-for e.g if overall_rating, work_life_balance, salary_and_benefit, skill_developement, career_growth, job_security and work_satisfaction is greater than 4 classify as ‘excellent’.  Then if atleast 3 of these qualities is greater than 4 classify as ‘Good’ otherwise classify as ‘Poor’
+for e.g if overall_rating, work_life_balance, salary_and_benefit, skill_developement, career_growth, job_security and work_satisfaction is greater than 4 classify as ‘excellent’.  Then if atleast 3 of these qualities is greater than 4 classify as ‘Good’ otherwise classify as ‘Poor’.
 
-Using the other three datasets above, 
-3. Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
+Using the other three datasets above,
+
+4. Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
 ---
 
 ## Analysis of Datasets
