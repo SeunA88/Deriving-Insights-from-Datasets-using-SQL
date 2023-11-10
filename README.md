@@ -27,8 +27,8 @@ To generate this insight the following analysis were carried out:
 2. Average value for each column was calculated and used to replace all the null values in the columns.
 3. The job distinct job titles that have a work life balance rating greater than 4 and a salary and benefits rating greater than 4.5 were then generated and further streamlined to Top 3.
    
-#### Below are the queries used fro this analysis
-![]Task2.png)
+#### Below are the queries used for this analysis
+![](Task2.png)
 
 ---
 
