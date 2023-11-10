@@ -19,7 +19,7 @@ for e.g if overall_rating, work_life_balance, salary_and_benefit, skill_develope
 
 Using the other three datasets above,
 
-4. Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
+3. Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
 ---
 
 ## Analysis of Datasets
