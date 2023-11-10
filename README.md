@@ -1,1 +1,1 @@
-# Deriving-Insights-from-Datasets-using-SQL
+# Deriving Insights from Datasets using SQL
